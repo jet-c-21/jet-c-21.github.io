@@ -1486,3 +1486,7 @@ body.offcanvas {
 
 .js .animate-box {
   opacity: 0; }
+
+a.study_plan :link{
+  color: red;
+}
